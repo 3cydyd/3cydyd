@@ -1,8 +1,11 @@
-#####github主页个人介绍
+#####github主页个人介绍  
+
 histroy_id :  
+
   >*3cydyd*  
   >*yd3.ccc*  
-  >*c3yd3*  
+  >*c3yd3*    
+  
 email_adress : <3cydyd@gmail.com>  
 主脚本库 : [主脚本库] <https://3cydyd.github.io/>  
 新手前端程序员，喜欢并热爱前端技术，主要是javascript。  
