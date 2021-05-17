@@ -1,7 +1,7 @@
 histroy_id :    
-*  _3cydyd_  
-*  _yd3.ccc_  
-*  _c3yd3_  
+    *  _3cydyd_  
+    *  _yd3.ccc_  
+    *  _c3yd3_  
 email adress : 3cydyd@gmail.com    
 新手前端程序员，喜欢并热爱前端技术，主要是javascript。  
 能够熟练使用html5，css3，javascript及jquery来进行编程，了解ES6标准，正在学习React及Vue框架，目前没有后端知识储备。  
