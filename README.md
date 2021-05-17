@@ -1,7 +1,7 @@
-histroy_id :
-    * _3cydyd_
-    * _yd3.ccc_
-    * _c3yd3_
+histroy_id :  
+>* *3cydyd*  
+>* *yd3.ccc*  
+>* *c3yd3*  
 email adress : 3cydyd@gmail.com  
 主脚本库 : <https://3cydyd.github.io/>  
 新手前端程序员，喜欢并热爱前端技术，主要是javascript。  
